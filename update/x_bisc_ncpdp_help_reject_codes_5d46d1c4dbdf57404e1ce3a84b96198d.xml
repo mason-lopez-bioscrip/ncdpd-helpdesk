@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_bisc_ncpdp_help_reject_codes">
+    <x_bisc_ncpdp_help_reject_codes action="INSERT_OR_UPDATE">
+        <response_error_message>M/I COMPOUND INGREDIENT DRUG COST (EE)</response_error_message>
+        <sys_class_name>x_bisc_ncpdp_help_reject_codes</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-07-09 18:05:58</sys_created_on>
+        <sys_id>5d46d1c4dbdf57404e1ce3a84b96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>x_bisc_ncpdp_help_reject_codes_5d46d1c4dbdf57404e1ce3a84b96198d</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-07-09 18:05:58</sys_updated_on>
+    </x_bisc_ncpdp_help_reject_codes>
+</record_update>
