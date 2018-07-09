@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Test Claim Reject" max_length="40" name="x_bisc_ncpdp_help_test_claim_reject" type="collection"/>
+    <element audit="true" extends="task" label="Test Claim Reject" max_length="40" name="x_bisc_ncpdp_help_test_claim_reject" type="collection">
+        <element label="Billing Number" max_length="40" name="billno" type="integer"/>
+        <element label="Knowledge Needed" max_length="40" name="knowledge_create" type="boolean"/>
+        <element label="Knowledge Article Used" max_length="32" name="knowledge_used" reference="kb_knowledge" type="reference"/>
+        <element label="Payor" max_length="200" name="payor" type="string"/>
+        <element label="Reject Code" max_length="32" name="reject_code" reference="x_bisc_ncpdp_help_reject_codes" type="reference"/>
+        <element label="Reviewed" max_length="40" name="review_at" type="glide_date_time"/>
+    </element>
 </database>

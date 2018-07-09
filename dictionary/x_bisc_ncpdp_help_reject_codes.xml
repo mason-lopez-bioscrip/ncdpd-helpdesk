@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Reject Codes" max_length="40" name="x_bisc_ncpdp_help_reject_codes" type="collection">
+        <element label="Response_Error_Message" max_length="150" name="response_error_message" type="string"/>
+    </element>
+</database>

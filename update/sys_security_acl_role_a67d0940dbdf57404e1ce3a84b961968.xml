@@ -3,18 +3,18 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>mason.lopez</sys_created_by>
-        <sys_created_on>2018-07-09 16:56:11</sys_created_on>
-        <sys_id>4346894cdb9f57404e1ce3a84b9619cb</sys_id>
+        <sys_created_on>2018-07-09 17:27:34</sys_created_on>
+        <sys_id>a67d0940dbdf57404e1ce3a84b961968</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_bisc_ncpdp_help_test_claim_reject.x_bisc_ncpdp_help.user</sys_name>
+        <sys_name>x_bisc_ncpdp_help_reject_codes.x_bisc_ncpdp_help.NCPDP Admin</sys_name>
         <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
         <sys_policy/>
         <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
-        <sys_security_acl display_value="x_bisc_ncpdp_help_test_claim_reject">0f46894cdb9f57404e1ce3a84b9619c8</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_4346894cdb9f57404e1ce3a84b9619cb</sys_update_name>
+        <sys_security_acl display_value="x_bisc_ncpdp_help_reject_codes">2e7d0940dbdf57404e1ce3a84b961965</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a67d0940dbdf57404e1ce3a84b961968</sys_update_name>
         <sys_updated_by>mason.lopez</sys_updated_by>
-        <sys_updated_on>2018-07-09 16:56:11</sys_updated_on>
-        <sys_user_role display_value="x_bisc_ncpdp_help.User" name="x_bisc_ncpdp_help.User">3e46494cdb9f57404e1ce3a84b9619a3</sys_user_role>
+        <sys_updated_on>2018-07-09 17:27:34</sys_updated_on>
+        <sys_user_role display_value="x_bisc_ncpdp_help.Admin" name="x_bisc_ncpdp_help.Admin">33fc4540dbdf57404e1ce3a84b961901</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
