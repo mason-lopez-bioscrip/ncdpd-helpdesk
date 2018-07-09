@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NCPDP Help Desk">5f46894cdb9f57404e1ce3a84b9619f8</application>
+        <filter/>
+        <name>Test Claim Reject</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_bisc_ncpdp_help.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-07-09 16:56:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1346894cdb9f57404e1ce3a84b9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Claim Reject</sys_name>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>sys_ui_module_1346894cdb9f57404e1ce3a84b9619fb</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-07-09 16:56:12</sys_updated_on>
+        <table>x_bisc_ncpdp_help_test_claim_reject</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

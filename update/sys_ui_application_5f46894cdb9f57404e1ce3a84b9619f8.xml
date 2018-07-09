@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>NCPDP Help Desk</name>
+        <order/>
+        <roles>x_bisc_ncpdp_help.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-07-09 16:56:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f46894cdb9f57404e1ce3a84b9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NCPDP Help Desk</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>sys_ui_application_5f46894cdb9f57404e1ce3a84b9619f8</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-07-09 16:56:12</sys_updated_on>
+    </sys_ui_application>
+</record_update>
