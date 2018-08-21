@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_stock_room" label="Stock room" language="en" table="u_imp_tmpl_cmn_location">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_stock_room</element>
+            <help/>
+            <hint/>
+            <label>Stock room</label>
+            <language>en</language>
+            <name>u_imp_tmpl_cmn_location</name>
+            <plural>Stock rooms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-07-18 20:41:46</sys_created_on>
+            <sys_id>0f3014cbdb9713004e1ce3a84b961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Stock room</sys_name>
+            <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_cmn_location_u_stock_room_en</sys_update_name>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-07-18 20:41:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

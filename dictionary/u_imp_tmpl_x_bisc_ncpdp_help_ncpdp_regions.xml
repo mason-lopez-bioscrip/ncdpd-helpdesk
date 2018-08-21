@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Bisc Ncpdp Help Ncpdp Regions" max_length="40" name="u_imp_tmpl_x_bisc_ncpdp_help_ncpdp_regions" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Assignment Group" max_length="40" name="u_assignment_group" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="32" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Region,edge_encryption_enabled=true" label="Region" max_length="40" name="u_region" type="string"/>
+    </element>
+</database>

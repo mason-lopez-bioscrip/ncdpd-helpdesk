@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>jody.britton</sys_created_by>
+        <sys_created_on>2018-08-15 21:18:23</sys_created_on>
+        <sys_id>ec25a8c0db4823004e1ce3a84b9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SysRelatedList</sys_name>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>sys_scope_privilege_ec25a8c0db4823004e1ce3a84b9619fb</sys_update_name>
+        <sys_updated_by>jody.britton</sys_updated_by>
+        <sys_updated_on>2018-08-15 21:18:23</sys_updated_on>
+        <target_name>SysRelatedList</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

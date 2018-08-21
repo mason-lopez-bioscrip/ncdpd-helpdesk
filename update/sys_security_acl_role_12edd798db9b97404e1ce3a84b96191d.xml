@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-07-10 22:37:05</sys_created_on>
+        <sys_id>12edd798db9b97404e1ce3a84b96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_bisc_ncpdp_help_test_claim_reject.work_notes_list.x_bisc_ncpdp_help.Admin</sys_name>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_security_acl display_value="x_bisc_ncpdp_help_test_claim_reject.work_notes_list">d2edd798db9b97404e1ce3a84b96191a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_12edd798db9b97404e1ce3a84b96191d</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-07-10 22:37:05</sys_updated_on>
+        <sys_user_role display_value="x_bisc_ncpdp_help.Admin" name="x_bisc_ncpdp_help.Admin">33fc4540dbdf57404e1ce3a84b961901</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

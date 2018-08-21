@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Reject Codes" language="en" table="x_bisc_ncpdp_help_reject_codes">
+    <sys_documentation element="" label="NCPDP Reject Codes" language="en" table="x_bisc_ncpdp_help_reject_codes">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Reject Codes</label>
+            <label>NCPDP Reject Codes</label>
             <language>en</language>
             <name>x_bisc_ncpdp_help_reject_codes</name>
-            <plural>Reject Codes</plural>
+            <plural>NCPDP Reject Codes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>mason.lopez</sys_created_by>
             <sys_created_on>2018-07-09 17:27:34</sys_created_on>
             <sys_id>7a7d0940dbdf57404e1ce3a84b96198d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Reject Codes</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>NCPDP Reject Codes</sys_name>
             <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
             <sys_policy/>
             <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
             <sys_update_name>sys_documentation_x_bisc_ncpdp_help_reject_codes__en</sys_update_name>
             <sys_updated_by>mason.lopez</sys_updated_by>
-            <sys_updated_on>2018-07-09 17:27:34</sys_updated_on>
+            <sys_updated_on>2018-07-18 18:33:23</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

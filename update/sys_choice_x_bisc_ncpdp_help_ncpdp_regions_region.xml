@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="region" table="x_bisc_ncpdp_help_ncpdp_regions" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region I</label>
+            <language>en</language>
+            <name>x_bisc_ncpdp_help_ncpdp_regions</name>
+            <sequence/>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-07-18 18:31:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe52777edb5713004e1ce3a84b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:31:30</sys_updated_on>
+            <value>region_1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region II</label>
+            <language>en</language>
+            <name>x_bisc_ncpdp_help_ncpdp_regions</name>
+            <sequence/>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-07-18 18:31:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0472b77edb5713004e1ce3a84b96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:31:42</sys_updated_on>
+            <value>region_2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region III</label>
+            <language>en</language>
+            <name>x_bisc_ncpdp_help_ncpdp_regions</name>
+            <sequence/>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-07-18 18:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a272fbfadb5713004e1ce3a84b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:31:53</sys_updated_on>
+            <value>region_3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <name>x_bisc_ncpdp_help_ncpdp_regions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-07-18 18:31:30</sys_created_on>
+            <sys_id>3262bf3edb5713004e1ce3a84b961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>region</sys_name>
+            <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_bisc_ncpdp_help_ncpdp_regions_region</sys_update_name>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:31:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="NCPDP Reject" max_length="40" name="x_bisc_ncpdp_help_test_claim_reject" sizeclass="1" type="collection">
-        <element label="BILLNO" max_length="40" name="billno" type="integer"/>
+    <element audit="true" extends="task" label="NCPDP Reject" max_length="40" name="x_bisc_ncpdp_help_test_claim_reject" sizeclass="90" type="collection">
+        <element label="Billing Response" max_length="1000" name="billing_response" type="string"/>
+        <element label="Claim Invoice Number" mandatory="true" max_length="400" name="claim_invoice" type="string"/>
         <element label="Knowledge Article Used" max_length="32" name="knowledge_used" reference="kb_knowledge" reference_qual="kb_category=17292e98db1b97404e1ce3a84b961952^EQ" reference_qual_condition="kb_category=17292e98db1b97404e1ce3a84b961952^EQ" type="reference"/>
-        <element label="Payor" max_length="200" name="payor" type="string"/>
-        <element label="Reject Code" max_length="32" name="reject_code" reference="x_bisc_ncpdp_help_reject_codes" type="reference"/>
+        <element label="Payor" mandatory="true" max_length="200" name="payor" type="string"/>
+        <element label="Region" max_length="32" name="region" reference="x_bisc_ncpdp_help_ncpdp_regions" type="reference"/>
+        <element label="Reject Code" mandatory="true" max_length="32" name="reject_code" reference="x_bisc_ncpdp_help_reject_codes" type="reference"/>
         <element label="Reviewed" max_length="40" name="review_at" type="glide_date_time"/>
     </element>
 </database>

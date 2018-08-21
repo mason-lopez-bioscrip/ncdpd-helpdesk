@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Automatically updates Short Description to match Reject Code</description>
+        <field>reject_code</field>
+        <global>true</global>
+        <messages/>
+        <name>Reject Code Changes</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+   //When Reject Code changes, update short description
+	g_form.getReference('reject_code', getReject);
+   
+}
+
+function getReject(reject_code) {
+	g_form.setValue('short_description', reject_code.response_error_message + ' ' + g_form.getValue('payor'));
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-07-10 21:33:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c0d435cdb5b97404e1ce3a84b96190d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Reject Code Changes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>sys_script_client_1c0d435cdb5b97404e1ce3a84b96190d</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-07-11 20:11:30</sys_updated_on>
+        <table>x_bisc_ncpdp_help_test_claim_reject</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

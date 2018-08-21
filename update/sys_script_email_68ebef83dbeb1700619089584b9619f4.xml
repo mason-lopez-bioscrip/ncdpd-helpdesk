@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>bs_reject_comments</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(current, template, email, email_action, event) {
+    template.print('<font color="#000000" face="helvetica"><strong>');
+    template.print(gs.getMessage('Comments') + ':');
+    template.print('</strong>');
+    template.print(gs.getMessage('${comments}'));
+    template.print('</font><br/><hr>')
+})(current, template, email, email_action, event);
+]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-07-31 22:57:29</sys_created_on>
+        <sys_id>68ebef83dbeb1700619089584b9619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bs_reject_comments</sys_name>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>sys_script_email_68ebef83dbeb1700619089584b9619f4</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-07-31 22:57:29</sys_updated_on>
+    </sys_script_email>
+</record_update>

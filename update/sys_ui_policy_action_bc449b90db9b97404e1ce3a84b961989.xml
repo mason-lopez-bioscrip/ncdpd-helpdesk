@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-07-10 21:55:09</sys_created_on>
+        <sys_id>bc449b90db9b97404e1ce3a84b961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_bc449b90db9b97404e1ce3a84b961989</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-07-10 21:55:09</sys_updated_on>
+        <table>x_bisc_ncpdp_help_test_claim_reject</table>
+        <ui_policy display_value="Hide Short Description">fe145b90db9b97404e1ce3a84b96192d</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

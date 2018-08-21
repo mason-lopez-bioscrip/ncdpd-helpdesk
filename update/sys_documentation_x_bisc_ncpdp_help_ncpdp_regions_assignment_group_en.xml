@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="assignment_group" label="Assignment Group" language="en" table="x_bisc_ncpdp_help_ncpdp_regions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <help/>
+            <hint/>
+            <label>Assignment Group</label>
+            <language>en</language>
+            <name>x_bisc_ncpdp_help_ncpdp_regions</name>
+            <plural>Assignment Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-07-18 21:20:23</sys_created_on>
+            <sys_id>7c195003dbd713004e1ce3a84b961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assignment Group</sys_name>
+            <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+            <sys_update_name>sys_documentation_x_bisc_ncpdp_help_ncpdp_regions_assignment_group_en</sys_update_name>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-07-18 21:20:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
