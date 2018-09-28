@@ -2,20 +2,20 @@
 <record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA New Tab">16e0dbbddb4ce3004e1ce3a84b96194c</grid_canvas>
-        <height>15</height>
-        <portal_widget display_value="Created 08-21-2018 02:18:41 PM">60011331db8ce3004e1ce3a84b9619b0</portal_widget>
+        <height>4</height>
+        <portal_widget display_value="Created 08-22-2018 04:41:06 PM">ac3bf452db0827004e1ce3a84b961994</portal_widget>
         <posx>0</posx>
-        <posy>4</posy>
+        <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>mason.lopez</sys_created_by>
-        <sys_created_on>2018-08-21 20:18:41</sys_created_on>
-        <sys_id>ac011331db8ce3004e1ce3a84b9619b1</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_created_on>2018-08-22 22:41:06</sys_created_on>
+        <sys_id>ac3bf452db0827004e1ce3a84b961996</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>16e0dbbddb4ce3004e1ce3a84b96194c</sys_name>
         <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
         <sys_policy/>
         <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_ac011331db8ce3004e1ce3a84b9619b1</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_ac3bf452db0827004e1ce3a84b961996</sys_update_name>
         <sys_updated_by>mason.lopez</sys_updated_by>
         <sys_updated_on>2018-08-22 22:49:38</sys_updated_on>
         <width>4</width>

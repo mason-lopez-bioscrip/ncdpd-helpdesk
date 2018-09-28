@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="INSERT_OR_UPDATE">
+        <boolean_field/>
+        <boolean_table/>
+        <date_filter/>
+        <default_boolean_field/>
+        <default_choice/>
+        <default_date_filter/>
+        <default_reference_field_value/>
+        <description>Allows filtering of branches for NCPDP Reject reports</description>
+        <exclusion_choice_list/>
+        <look_up_name>NCPDP Branches Filter</look_up_name>
+        <name>NCPDP Branches</name>
+        <reference_conditions/>
+        <reference_table>cmn_location</reference_table>
+        <source_field>location</source_field>
+        <source_table>x_bisc_ncpdp_help_test_claim_reject</source_table>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>mason.lopez</sys_created_by>
+        <sys_created_on>2018-08-22 22:39:48</sys_created_on>
+        <sys_id>ba5af452db0827004e1ce3a84b96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NCPDP Branches</sys_name>
+        <sys_package display_value="NCPDP Help Desk" source="x_bisc_ncpdp_help">764649c8db9f57404e1ce3a84b9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_ba5af452db0827004e1ce3a84b96196d</sys_update_name>
+        <sys_updated_by>mason.lopez</sys_updated_by>
+        <sys_updated_on>2018-08-22 22:39:48</sys_updated_on>
+        <type>2</type>
+        <ui_control_type>4</ui_control_type>
+    </sys_ui_hp_publisher>
+</record_update>

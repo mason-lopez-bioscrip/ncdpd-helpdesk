@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_bisc_ncpdp_help_test_claim_reject" version="2" view="rpt-tempx_bisc_ncpdp_help_test_claim_reject89b55150db0897007cc636be3b9619b0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_bisc_ncpdp_help_test_claim_reject" element="NULL" name="x_bisc_ncpdp_help_test_claim_reject" parent="NULL" relationship="NULL" sys_domain="global" view="1b3ecbbddb4ce3004e1ce3a84b961914">85a97412db0827004e1ce3a84b961991</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-08-22 22:34:19</sys_created_on>
+            <sys_id>c9a97412db0827004e1ce3a84b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-08-22 22:34:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_bisc_ncpdp_help_test_claim_reject" element="NULL" name="x_bisc_ncpdp_help_test_claim_reject" parent="NULL" relationship="NULL" sys_domain="global" view="1b3ecbbddb4ce3004e1ce3a84b961914">85a97412db0827004e1ce3a84b961991</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-08-22 22:34:19</sys_created_on>
+            <sys_id>4da97412db0827004e1ce3a84b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-08-22 22:34:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="x_bisc_ncpdp_help_test_claim_reject" element="NULL" name="x_bisc_ncpdp_help_test_claim_reject" parent="NULL" relationship="NULL" sys_domain="global" view="1b3ecbbddb4ce3004e1ce3a84b961914">85a97412db0827004e1ce3a84b961991</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-08-22 22:34:19</sys_created_on>
+            <sys_id>cda97412db0827004e1ce3a84b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-08-22 22:34:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>reject_code</element>
+            <list_id display_value="x_bisc_ncpdp_help_test_claim_reject" element="NULL" name="x_bisc_ncpdp_help_test_claim_reject" parent="NULL" relationship="NULL" sys_domain="global" view="1b3ecbbddb4ce3004e1ce3a84b961914">85a97412db0827004e1ce3a84b961991</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-08-22 22:34:19</sys_created_on>
+            <sys_id>41a97412db0827004e1ce3a84b961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-08-22 22:34:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_bisc_ncpdp_help_test_claim_reject</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>mason.lopez</sys_created_by>
+            <sys_created_on>2018-08-22 22:34:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85a97412db0827004e1ce3a84b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="NCPDP Help Desk">764649c8db9f57404e1ce3a84b9619e2</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>mason.lopez</sys_updated_by>
+            <sys_updated_on>2018-08-22 22:34:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-tempx_bisc_ncpdp_help_test_claim_reject89b55150db0897007cc636be3b9619b0" name="rpt-tempx_bisc_ncpdp_help_test_claim_reject89b55150db0897007cc636be3b9619b0">1b3ecbbddb4ce3004e1ce3a84b961914</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
